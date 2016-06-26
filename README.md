@@ -5,7 +5,13 @@ A curated list of awesome light field resources.
 
 # Foundations
 
+* [Light Field Rendering](https://graphics.stanford.edu/papers/light/light-lores-corrected.pdf) - Marc Levoy, Pat Hanrahan.
+* [The Lumigraph](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Gortler-SG96.pdf) - Steven J. Gortler, Radek Grzeszczuk, Richard Szeliski, Michael F. Cohen.
+
 # Acquisition
+
+
+
 
 # Parametrization
 
